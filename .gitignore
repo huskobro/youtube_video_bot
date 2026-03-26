@@ -1,0 +1,12 @@
+venv/
+venv312/
+output/
+temp/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+client_secrets.json
+channel_tokens/
+*.pickle
+*.json
